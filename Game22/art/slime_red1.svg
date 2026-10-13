@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="48" viewBox="0 0 64 48"><path d="M4 38C4 25 10 7 32 7s28 18 28 31c-6 6-12 0-18 2s-11 0-17 0S10 44 4 38Z" fill="#d86a67" stroke="#753f48" stroke-width="2"/>
+<ellipse cx="20" cy="16" rx="8" ry="4" fill="#ef9c8a"/>
+<ellipse cx="38" cy="24" rx="5" ry="7" fill="#fff2dc"/><ellipse cx="51" cy="24" rx="5" ry="7" fill="#fff2dc"/>
+<circle cx="40" cy="25" r="2.5" fill="#372c37"/><circle cx="53" cy="25" r="2.5" fill="#372c37"/>
+<path d="M41 35q5 5 10 0" fill="none" stroke="#753f48" stroke-width="2"/></svg>
